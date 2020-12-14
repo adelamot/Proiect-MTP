@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Chestionar>
+<textbox nume="locatie_favorita" detalii="Care e locatia dumneavoastra favorita pentru excursii?"/>
+<radio nume="anotimp" detalii="Care este cel mai potrivit anotimp pentru a merge intr-o excursie?">
+       <val>Primavara</val>
+       <val>Vara</val>
+       <val>Toamna</val>
+       <val>Iarna</val>
+</radio>
+<checkbox nume="locatie" detalii="Unde va place sa mergeti in excursie?">
+       <val>La munte</val>
+       <val>La mare</val>
+       <val>Pe o insula</val>
+</checkbox>
+</Chestionar>

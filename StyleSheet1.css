@@ -1,0 +1,21 @@
+﻿body
+{
+}
+
+#mynav{
+    position: fixed;
+    top: 0;
+}
+
+#footer {
+    position: fixed;
+    height: 40px;
+    width: 100%;
+    margin-top: 40px;
+    background-color: pink;
+}
+
+.login-form {
+    width: 400px;
+    margin: auto;
+}
