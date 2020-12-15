@@ -7,7 +7,7 @@
             <div class="login-form">
                 <h1 class="login-title">Chestionar</h1>           
                 <asp:PlaceHolder ID="PlaceHolder1" runat="server"></asp:PlaceHolder>
-                <asp:Button ID="Button1" class="btn" style="margin: auto;" runat="server" Text="Button" OnClick="Button1_Click" />
+                <asp:Button ID="Button1" class="btn" style="margin: auto;" runat="server" Text="Trimite" OnClick="Button1_Click" />
                 <asp:Label class="label" style="display:block; margin-bottom:10px; color: white;" ID="Label4" runat="server" Text=""></asp:Label>
             </div>
         </div>
