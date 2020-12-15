@@ -88,7 +88,7 @@ namespace WebApplication2
             da.Fill(ds);
             GridView1.DataSource = ds;
             GridView1.DataBind();
-            if (GridView1.VirtualItemCount == 0)
+            if (GridView1.Rows.Count == 0)
                 Label1.Text = "Termenul cautat nu a fost gasit!";
         }
 
